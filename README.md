@@ -17,3 +17,6 @@ Tenemos un boton que genera un json con los datos de la nota. Este json se puede
 
 Tenemos un boton que genera un informe en un rango de fechas. Este informe se puede copiar y pegar en la aplicacion.
 
+## Generacion de un listado de objetivos
+
+Se pueden marcar metas a las que quieres llegar.
